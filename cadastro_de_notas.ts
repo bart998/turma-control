@@ -4,7 +4,7 @@ const { titulo } = require("./utils.ts")
 let notas:string[] = []
 
 function telaCadastrarNotas() {
-   titulo("CADASTRAR DE NOTAS")
+   titulo("CADASTRAR  NOTAS")
 ss<F12>
    const n1 = tela.question("informe a primeira nota: ")
    const n2 = tela.question("informe a segunda nota: ")
